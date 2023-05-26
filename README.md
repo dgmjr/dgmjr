@@ -2,8 +2,7 @@
 
 I'm David, a software engineer and part-time college professor living in Washington, DC.  This page is your "Portal" to all of my projects on GitHub, mostly organized by the technologies they primarily employ:
 
-- [DGMJR-IO](https://github.com/dgmjr-io) - Where I keep all of my major .NET projects
-[img!https://avatars.githubusercontent.com/u/126372131?s=400&u=32305c7b864d7ae109e84b713fe23ee399477151&v=4]
+- [DGMJR-IO](https://github.com/dgmjr-io) - Where I keep all of my major .NET projects [DGMJR-IO)(img!https://avatars.githubusercontent.com/u/126372131?s=400&u=32305c7b864d7ae109e84b713fe23ee399477151&v=4)
 - 
 
 <!--
