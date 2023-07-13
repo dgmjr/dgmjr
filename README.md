@@ -1,21 +1,21 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm David, a software engineer and part-time college professor living in Washington, DC.  This page is your "Portal" to all of my projects on GitHub, mostly organized by the technologies they primarily employ:
+I'm David, a software engineer and part-time college professor living in Washington, DC.  This is your "portal" to all of my projects on GitHub.
 
-- [DGMJR-IO](https://github.com/dgmjr-io) - Where I keep all of my major .NET projects ![DGMJR-IO)(img!https://avatars.githubusercontent.com/u/126372131?s=400&u=32305c7b864d7ae109e84b713fe23ee399477151&v=4)
-- 
+- 🙋‍♀️ A short introduction - I write software for the Web in ASP.NET core and some TypeScript (and some Python very very badly)?
+- 🌈 Contribution guidelines - Check out the [open issues](https://projects.dgmjr.codes) or [file a ticket](https://dgmjr.boo)!
+- 👩‍💻 Useful resources - One thing at a time, guys! I'm still try'n'a figure out [FrontMatter](https://frontmatter.codes) and [MKDocs](https://www.mkdocs.org).
+- 🍿 Fun facts - I **love** the International House of Pancakes' pancakes!
+- 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-<!--
-**dgmjr/dgmjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+And as the great President Lincoln once said, *"It is not the years in your life that matter, but the life in your years."*  So make each day count, boys and girls!  Take risks.  And as I once told a twink who asked me as "an older gay man, what advice [do i] have for him,"  I responded by saying, *"Do **all** of the things."*
 
-Here are some ideas to get you started:
+### You can also check out my repos here:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [My .NET Projects](https://git.dgmjr.io)
+* [My TypeScript Projects](https://ts.git.dgmjr.io)
+* [My PowerShell Projects](https://ps.git.dgmjr.io)
+* [My Reusable GitHub Actions](https://actions.dgmjr.io)
+* [My Collection of Swagger/OpenAPI docs for various useful services](https://swagger.dgmjr.io)
+* [My (attempts) at bringing old(er) no-longer-maintained projects up to date](https://modernization.dgmjr.io)
+
